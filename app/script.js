@@ -14,6 +14,7 @@ if (nameEntered === "") {
     greeting.innerHTML = "<span>Enter Name!</span>";
 } else {
     greeting.textContent = "Hello " + nameEntered + "!";
+    userInput.value= "";
 }
 
 
