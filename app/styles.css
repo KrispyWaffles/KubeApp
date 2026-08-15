@@ -1,0 +1,42 @@
+body {
+    background-color: #BFC9D1;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 250px 10px 10px 10px;
+    gap: 5px;
+}
+
+.inputSection {
+    padding: 0px 10px;
+}
+
+
+.btnVibes {
+  background-color: #ED985F;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+
+.inputVibes {
+
+
+  padding: 15px;
+  margin: 10px 0;
+  box-sizing: border-box;
+
+}
+
+span {
+    color: #BF3131;
+}
